@@ -1,0 +1,22 @@
+site_name: t1annotebook 
+
+nav:
+    - Programming ⌨ : 
+      - pytorch: programming/pytorch.md
+      - linux-terminal: programming/terminal.md
+      - numpy: none.md
+      - ddp: none.md
+      - matplotlib: none.md
+      - latex: none.md
+      - vscode: none.md
+      - debug: none.md
+      - git: none.md
+      - python-basic: nont.md
+
+    - Maths 🔢 :
+      - math: math/math.md
+    - PaperReading 📚 :
+      - plans: paperreading/plans.md
+      
+theme: readthedocs
+
