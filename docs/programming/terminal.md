@@ -14,3 +14,8 @@ Build server
 ```
 mkdocs serve
 ```
+
+Deploy to Github
+```
+mkdocs gh-deploy --clean
+```
