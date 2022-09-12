@@ -5,13 +5,13 @@
 
 
 ### Basic
- - [ ] "Deep Unsupervised Learning using Nonequilibrium Thermodynamics" 
+ - [x] "Deep Unsupervised Learning using Nonequilibrium Thermodynamics" 
  - [ ] "A Survey on Generative Diffusion Model"
- - [ ] "Denoising Diffusion Probabilistic Models"
- - [ ] "Generative Modeling by Estimating Gradients of the Data Distribution"
- - [ ] "Denoising Diffusion Implicit Models"
- - [ ] "Understanding Diffusion Models: A Unified Perspective"
- - [ ] "Score-based Generative Modeling Through Stochastic Differential Equations"
+ - [x] "Denoising Diffusion Probabilistic Models"
+ - [x] "Generative Modeling by Estimating Gradients of the Data Distribution"
+ - [x] "Denoising Diffusion Implicit Models"
+ - [x] "Understanding Diffusion Models: A Unified Perspective"
+ - [x] "Score-based Generative Modeling Through Stochastic Differential Equations"
 
 ### Planning
 - [ ] "Planning with Diffusion for Flexible Behavior Synthesis"

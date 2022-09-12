@@ -6,7 +6,7 @@ Reload the ~/.tmux.conf
 ```
 tmux source-file ~/.tmux.conf
 ```
-
+s
 
 ## Mkdocs
 
